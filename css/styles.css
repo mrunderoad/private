@@ -1,0 +1,18 @@
+.me {
+  width: 1000px;
+  height: 600px;
+  margin-top: 100px;
+  margin-left: 80px;
+}
+
+.show-match {
+  display: none;
+}
+
+.match {
+  display: none;
+}
+
+.me {
+  display: none;
+}
