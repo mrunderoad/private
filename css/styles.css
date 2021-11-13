@@ -16,3 +16,7 @@
 .me {
   display: none;
 }
+
+.jumbotron {
+  background-color: slategray;
+}
